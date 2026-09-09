@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Market Chart",
+  "description": "Real-time interactive market charts with technical analysis tools and live market feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
